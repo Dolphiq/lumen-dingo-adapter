@@ -2,7 +2,7 @@
     "name": "dolphiq/lumen-dingo-adapter",
     "description": "Using Dingo + JWT in your Lumen Based Application with no pain",
     "type": "library",
-    "version": 1.1,
+    "version": 1.2,
     "license": "MIT",
     "autoload": {
         "psr-4": {
