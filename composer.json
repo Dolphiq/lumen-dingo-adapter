@@ -2,7 +2,7 @@
     "name": "dolphiq/lumen-dingo-adapter",
     "description": "Using Dingo + JWT in your Lumen Based Application with no pain",
     "type": "library",
-    "version": 1.4,
+    "version": "2.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -13,12 +13,12 @@
         ]
     },
     "require": {
-        "php": ">=7.1",
-        "illuminate/hashing": "^5.8",
-        "tymon/jwt-auth": "1.0.0-rc.4.1",
-        "illuminate/cookie": "^5.8",
-        "illuminate/routing": "^5.8",
-        "illuminate/http": "^5.8",
+        "php": ">=7.2",
+        "illuminate/hashing": "^6.0",
+        "tymon/jwt-auth": "^1.0.2",
+        "illuminate/cookie": "^6.0",
+        "illuminate/routing": "^6.0",
+        "illuminate/http": "^6.0",
         "dingo/api": "^2"
     },
     "authors": [
